@@ -20,10 +20,9 @@ Since our project is medical diagnosis we need to give maximum importance to Typ
 
 ![download (2)](https://user-images.githubusercontent.com/108978683/202146911-ab738360-9ab2-4afc-8884-9c0d3a874006.png)
 
-### Comparing ROC Curve:
+### Comparing ROC Curve & DET Curve:
 * While comparing ROC Curves we found Voting classifier lies at ideal point that is top left corner and has larger area under the curve (AUC) which is 0.99 compared to XG Boost which has 0.98 and Bagging classifier with 0.94
 
-Comparing DET Curve:
 * The DET Curve has distinct advantages over the standard ROC type curve for presenting performance results where tradeoffs of two error types are involved. Here we can observe Voting Classifier has lesser error tradeoff compared to XG Boost.
 
 ![download](https://user-images.githubusercontent.com/108978683/202146488-92db522b-54d8-45f1-a994-2cc6f2bc8e3f.png)
