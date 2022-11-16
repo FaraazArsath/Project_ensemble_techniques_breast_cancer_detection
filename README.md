@@ -28,4 +28,4 @@ Comparing DET Curve:
 
 ![download](https://user-images.githubusercontent.com/108978683/202146488-92db522b-54d8-45f1-a994-2cc6f2bc8e3f.png)
 
-Experimental results show that Voting Classifier(soft voting) was the most powerful prediction model than other ensemble machine learning techniques for Breast Cancer dataset.
+Experimental results show that Voting Classifier(soft voting) was the most powerful prediction model than other ensemble machine learning techniques for our Breast Cancer dataset.
